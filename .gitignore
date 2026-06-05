@@ -1,0 +1,30 @@
+# Dataset Files
+data/*.csv
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# VS Code / Local Workspace
+.sixth/
+.vscode/
+
+# Virtual Environments
+venv/
+.venv/
+
+# Chroma Vector Database
+chroma_db/
+
+# Ollama Models Cache (if any local configs)
+ollama_data/
+
+# Git Internal Files
+.git/
+
+# OS Files
+.DS_Store
+Thumbs.db
