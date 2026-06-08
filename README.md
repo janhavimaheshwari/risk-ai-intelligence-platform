@@ -1,4 +1,4 @@
-# 🛡️ RiskPulse AI Intelligence
+# RiskPulse AI Intelligence
 
 ## Enterprise Financial Risk Intelligence Platform
 
