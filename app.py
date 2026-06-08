@@ -75,7 +75,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ----------------------------------
-# LOAD DATA
+# LOAD DATA INTO THE APPLICATION
 # ----------------------------------
 @st.cache_data
 def load_transactional_universe():
